@@ -7,7 +7,7 @@ ul {
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 button {
@@ -25,4 +25,8 @@ button {
 
 .hero-content {
   display: flex;
+}
+
+.dark-content {
+    margin: 0px 150px;
 }
