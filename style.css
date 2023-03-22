@@ -25,8 +25,13 @@ button {
 
 .hero-content {
     display: flex;
+    justify-content: space-between;
 }
 
 .dark-content {
     margin: 0px 150px;
+}
+
+.hero-left {
+    max-width: 380px;
 }
