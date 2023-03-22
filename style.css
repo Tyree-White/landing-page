@@ -42,3 +42,10 @@ button {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.hero {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    margin: 0px;
+}
