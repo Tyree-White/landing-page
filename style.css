@@ -17,3 +17,12 @@ button {
   border: none;
   background: #3882F6;
 }
+
+.img {
+  background: #e5e7eb;
+  padding: 100px 120px;
+}
+
+.hero-content {
+  display: flex;
+}
