@@ -8,6 +8,8 @@ ul {
 .header {
     display: flex;
     justify-content: space-between;
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 button {
@@ -34,4 +36,9 @@ button {
 
 .hero-left {
     max-width: 380px;
+}
+
+.header.links {
+    font-size: 18px;
+    color: #e5e7eb;
 }
