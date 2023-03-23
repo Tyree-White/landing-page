@@ -64,3 +64,9 @@ button {
 body {
     margin: 0px;
 }
+
+.header.info {
+    font: 36px;
+    color: #1f2937;
+    font-weight: 800;
+}
