@@ -110,3 +110,8 @@ body {
     padding: 70px 260px;
     background-color: #e5e7eb;
 }
+
+.cta,
+.cta-container p {
+    margin: 0px;
+}
