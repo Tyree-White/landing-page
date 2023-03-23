@@ -40,7 +40,7 @@ button {
     max-width: 380px;
 }
 
-.header.links {
+.header .links {
     font-size: 18px;
     color: #e5e7eb;
 }
