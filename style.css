@@ -101,6 +101,12 @@ body {
     color: #1f2937;
 }
 
-.quote h3 {
+.quote h2 {
     color: #1f2937;
+    text-align: end;
+}
+
+.quote {
+    padding: 70px 260px;
+    background-color: #e5e7eb;
 }
