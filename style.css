@@ -22,7 +22,7 @@ button {
 }
 
 .img {
-    background: #e5e7eb;
+    background: grey;
     padding: 100px 120px;
     color: #f9faf8;
 }
@@ -30,10 +30,11 @@ button {
 .hero-content {
     display: flex;
     justify-content: space-between;
+    margin-top: 100px;
 }
 
 .dark-content {
-    padding: 0px 150px;
+    padding: 0px 150px 100px 150px;
     background-color: #1f2937;
 }
 
