@@ -69,4 +69,9 @@ body {
     font: 36px;
     color: #1f2937;
     font-weight: 800;
+    justify-content: space-around;
+}
+
+.card-container {
+    display: flex;
 }
