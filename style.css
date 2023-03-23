@@ -118,4 +118,14 @@ body {
 
 .cta-container {
     display: flex;
+    background-color: #3882F6;
+    color: white;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    height: 100px;
+    margin: 90px 190px;
+    padding: 15px 120px;
 }
+
