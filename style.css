@@ -115,3 +115,7 @@ body {
 .cta-container p {
     margin: 0px;
 }
+
+.cta-container {
+    display: flex;
+}
