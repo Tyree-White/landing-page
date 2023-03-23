@@ -32,7 +32,8 @@ button {
 }
 
 .dark-content {
-    margin: 0px 150px;
+    padding: 0px 150px;
+    background-color: #1f2937;
 }
 
 .hero-left {
