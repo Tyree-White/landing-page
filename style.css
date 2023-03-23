@@ -75,3 +75,9 @@ body {
 .card-container {
     display: flex;
 }
+.card-img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 8px;
+}
